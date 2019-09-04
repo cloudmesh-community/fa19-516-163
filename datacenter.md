@@ -8,7 +8,7 @@
 
 **IT Load**: `3300 kW.`  
 
-The IU Datacenter has 2, 2200 horespower diesel generators for backup power [1]. Lets assume these can provide sufficient power to keep the Datacenter up and running. This can give us a very rough idea of the Datacenter load. I have requested more precise information from IU's Datacenter Operations team (DCOps) and will update this value as I'm able.
+The IU Datacenter has 2, 2200 horsepower diesel generators for backup power [1]. Lets assume these can provide sufficient power to keep the Datacenter up and running. This can give us a very rough idea of the Datacenter load. I have requested more precise information from IU's Datacenter Operations team (DCOps) and will update this value as I'm able.
 
 ```
 2 generators * 2200 hp/generator * 0.75 kW/hp = 3300 kW. 
