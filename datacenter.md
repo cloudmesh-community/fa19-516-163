@@ -8,7 +8,12 @@
 
 **IT Load**: `3300 kW.`  
 
-The IU Datacenter has 2, 2200 horespower diesel generators for backup power [1]. Lets assume these can provide sufficient power to keep the Datacenter up and running. This can give us a very rough idea of the Datacenter load. I have requested more precise information from IU's Datacenter Operations team (DCOps) and will update this value as I'm able.
+The IU Datacenter has 2, 2200 horespower diesel generators for backup
+power [1]. Lets assume these can provide sufficient power to keep the
+Datacenter up and running. This can give us a very rough idea of the
+Datacenter load. I have requested more precise information from IU's
+Datacenter Operations team (DCOps) and will update this value as I'm
+able.
 
 ```
 2 generators * 2200 hp/generator * 0.75 kW/hp = 3300 kW. 
@@ -31,7 +36,8 @@ Annualize the aggregate IT Load and the Eletricty Cost:
 
 **Yearly CO2 Footprint (tons)**: `26336 ton/yr.` 
 
-The U.S. EIA has determined that Indiana's aggregate CO2 emissions are 1822 lbs/MWh (1.822 lbs/kWh) [3]. 
+The U.S. EIA has determined that Indiana's aggregate CO2 emissions are
+1822 lbs/MWh (1.822 lbs/kWh) [3].
 
 ```
 3300 kW * 1.822 lbs/kWh * 0.0005 ton/lb * 24 hr/day * 365 day/yr = 26336 ton/yr.
@@ -40,7 +46,8 @@ The U.S. EIA has determined that Indiana's aggregate CO2 emissions are 1822 lbs/
 
 **Yearly CO2 Footprint (cars)**: `5726 car/yr.` 
 
-The U.S. EPA estimates that the average passenger car emits 4.6 tons of CO2 per year [4].
+The U.S. EPA estimates that the average passenger car emits 4.6 tons of
+CO2 per year [4].
 
 ```
 26336 ton/yr / 4.6 ton/car = 5726 car/yr
