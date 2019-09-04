@@ -38,8 +38,8 @@ Annualize the aggregate IT Load and the Eletricty Cost:
 
 **Yearly CO2 Footprint (tons)**: `26336 ton/yr.` 
 
-The U.S. EIA has determined that Indiana's aggregate CO2 emissions are 
-1822 lbs/MWh (1.822 lbs/kWh) [3]. 
+The U.S. EIA has determined that Indiana's aggregate CO2 emissions are
+1822 lbs/MWh (1.822 lbs/kWh) [3].
 
 ```
 3300 kW * 1.822 lbs/kWh * 0.0005 ton/lb * 24 hr/day * 365 day/yr = 26336 ton/yr.
@@ -59,10 +59,10 @@ CO2 per year [4].
 **References**  
 
 1. Nolan, B. (2017, Oct 23). Indiana University Data Center serves as 
-university's technology hub. <https://news.iu.edu/stories/2017/10/iu/inside/23-data-center.html>
+   university's technology hub. <https://news.iu.edu/stories/2017/10/iu/inside/23-data-center.html>
 2. Duke Energy Indiana. (2018, August 22). Rate HLF -- Schedule for High Load 
-Factor Service. <https://www.duke-energy.com/_/media/pdfs/for-your-home/rates/electric-in/ratehlf.pdf?la=en>
+   Factor Service. <https://www.duke-energy.com/_/media/pdfs/for-your-home/rates/electric-in/ratehlf.pdf?la=en>
 3. U.S. Energy Information Administration. (2019, January 8). Indiana State 
-Electricty Profile, 2017. <https://www.eia.gov/electricity/state/indiana/>
+   Electricty Profile, 2017. <https://www.eia.gov/electricity/state/indiana/>
 4. U.S. Environmental Protection Agency. (2018, March). Greenhouse Gas Emissions
-from a Typical Passenger Vehicle. <https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle>
+   from a Typical Passenger Vehicle. <https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle>
