@@ -1,12 +1,12 @@
-# Datacenter research
+# Datacenter
 
-**Data center**: IU Bloomington  
-**Organization**: Indiana University  
-**Location**: Bloomington, IN, USA  
-**Year Built**: 2009 [1]  
+:o2: please can you put the assignment labels as `##` headlines
 
-
-**IT Load**: `3300 kW.`  
+* **Data center**: IU Bloomington  
+* **Organization**: Indiana University  
+* **Location**: Bloomington, IN, USA  
+* **Year Built**: 2009 [1]  
+* **IT Load**: `3300 kW.`  
 
 The IU Datacenter has 2, 2200 horespower diesel generators for backup
 power [1]. Lets assume these can provide sufficient power to keep the
@@ -35,7 +35,6 @@ Annualize the aggregate IT Load and the Eletricty Cost:
 3300 kW * $0.10/kWh * 24 hr/day * 365 day/yr = $2.89MM/yr.
 ```
 
-
 **Yearly CO2 Footprint (tons)**: `26336 ton/yr.` 
 
 The U.S. EIA has determined that Indiana's aggregate CO2 emissions are
@@ -56,7 +55,7 @@ CO2 per year [4].
 26336 ton/yr / 4.6 ton/car = 5726 car/yr
 ```
 
-**References**  
+## References
 
 1. Nolan, B. (2017, Oct 23). Indiana University Data Center serves as 
    university's technology hub. <https://news.iu.edu/stories/2017/10/iu/inside/23-data-center.html>
