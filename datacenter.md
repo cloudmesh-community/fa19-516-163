@@ -86,3 +86,28 @@ production Kenya leads with just over 50%, followed by Iceland with 30%.
    [How Geothermal Energy Works](https://www.ucsusa.org/clean_energy/our-energy-choices/renewable-energy/how-geothermal-energy-works.html).
 2. Wikipedia. 2019.
    [Geothermal power](https://en.wikipedia.org/wiki/Geothermal_power).
+
+## Geothermal Energy Casestudy: Iceland
+
+Iceland is an excellent case study in the use of geothermal energy. Iceland is
+located on the Mid-Atlantic Ridge, the divergence point of the North American
+and Eurasian plates [1]. The island itself is a product of seismic activity. As
+of 2013 geothermal sources account for nearly one-third of Iceland's electrical
+energy production [2]. Geothermal heat sources have a number of other uses in
+Iceland, such as heating homes and swimming pools, melting snow on roads and
+sidewalks, and drying fish. 
+
+Iceland's subarctic climate provides a natural supply of cold air that can be
+used in cooling. These resources make Iceland an ideal location for datacenter
+construction, with Power Usage Effectiveness (PUE) approaching 1.07 and a Total
+Cost of Ownership (TCO) 40% lower than comparable datacenters in the United
+States [3].
+
+### References
+
+1. Wikipedia. 2019.
+   [Geology of Iceland](https://en.wikipedia.org/wiki/Geology_of_Iceland).
+2. Orkustofnon (National Energy Authority).
+   [Electricy Generation](https://nea.is/geothermal/electricity-generation/).
+3. National Power Company of Iceland.
+   [Data Centers in Iceland](https://www.landsvirkjun.com/productsservices/energyproducts/data-centers/data-centers-in-iceland/).
