@@ -61,3 +61,28 @@ year [4].
 4. U.S. Environmental Protection Agency. (2018, March). Greenhouse Gas Emissions
    from a Typical Passenger Vehicle.
    <https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle>
+
+## Renewable Energy: Geothermal
+
+Geothermal energy production uses steam or hot water from beneath the earth's
+surface to drive electrical turbines and generate electricity [1]. The spent
+water is pumped back under the surface where it is reheated naturally. This form
+of energy production is renewable because most/all of the heat energy is dervied
+from the liquid upper mantle of the earth's core.
+
+Like many other renewables, the economic viability of geothermal energy
+production is highly location-dependant. Producers must drill wells in order to
+access and return geothermally heated water. The shallowest wells can be drilled
+where the liquid mantel rises furthest towards the surface. This phenomenon
+predominantly occurs near seismic boundaries.
+
+As of 2018 the United States leads the world in geothermal energy production,
+with an installed capacity of ~3600 MW [2]. As a share of national energy
+production Kenya leads with just over 50%, followed by Iceland with 30%.
+
+### References
+
+1. Union of Concerned Scientists. 2014.
+   [How Geothermal Energy Works](https://www.ucsusa.org/clean_energy/our-energy-choices/renewable-energy/how-geothermal-energy-works.html).
+2. Wikipedia. 2019.
+   [Geothermal power](https://en.wikipedia.org/wiki/Geothermal_power).
