@@ -1,6 +1,6 @@
 # Datacenters
 
-## Carbon Footprint
+## E.Datacenter.2.b: Carbon Footprint
 
 **Data center**: IU Bloomington  
 **Organization**: Indiana University  
@@ -62,7 +62,7 @@ year [4].
    from a Typical Passenger Vehicle.
    <https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle>
 
-## Renewable Energy: Geothermal
+## E.Datacenter.4: Geothermal Energy
 
 Geothermal energy production uses steam or hot water from beneath the earth's
 surface to drive electrical turbines and generate electricity [1]. The spent
@@ -87,7 +87,7 @@ production Kenya leads with just over 50%, followed by Iceland with 30%.
 2. Wikipedia. 2019.
    [Geothermal power](https://en.wikipedia.org/wiki/Geothermal_power).
 
-## Geothermal Energy Casestudy: Iceland
+## E.Datacenter.5: Iceland
 
 Iceland is an excellent case study in the use of geothermal energy. Iceland is
 located on the Mid-Atlantic Ridge, the divergence point of the North American
