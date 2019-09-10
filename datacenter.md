@@ -95,7 +95,7 @@ and Eurasian plates [1]. The island itself is a product of seismic activity. As
 of 2013 geothermal sources account for nearly one-third of Iceland's electrical
 energy production [2]. Geothermal heat sources have a number of other uses in
 Iceland, such as heating homes and swimming pools, melting snow on roads and
-sidewalks, and drying fish. 
+sidewalks, and drying fish.
 
 Iceland's subarctic climate provides a natural supply of cold air that can be
 used in cooling. These resources make Iceland an ideal location for datacenter
@@ -111,3 +111,28 @@ States [3].
    [Electricy Generation](https://nea.is/geothermal/electricity-generation/).
 3. National Power Company of Iceland.
    [Data Centers in Iceland](https://www.landsvirkjun.com/productsservices/energyproducts/data-centers/data-centers-in-iceland/).
+
+## E.Datacenter.8: Google Outage, 2019 June 2.
+
+On Sunday, June 2, 2019, an errant configuration change on the Google Cloud
+Platform resulted in network congestion and outages of many Google services [1].
+Youtube views were reduced by 10% for about four hours. Roughly 1% of Gmail
+users were unable to access their account. The Uptime Institute has determined
+that over a quarter (28%) of data center outages are the result of configuration
+or software errors such as the one experience by Google [2].
+
+Google has not released figures on the financial impact of this outage. However,
+Youtube's business model is based on advertising and views, so we can estimate
+the cost of a traffic reduction. Youtube has an estimated annual revenue of
+\$16-25 billion. If we assume the income is constant, is an hourly revenue of
+\$1.8-2.5 million. 10% of that is \$180-250 thousand. Over four hours, the cost
+to Google would have thus been nearly `\$1 million.
+
+### References
+
+1. Tung, Liam. (2019 June 3)
+   [Google: Here's what caused Sunday's big outage.](https://www.zdnet.com/article/google-heres-what-caused-sundays-big-outage/)
+2. Uptime Institute. 2019.
+   [Data center outages are common, costly, and preventable](https://uptimeinstitute.com/data-center-outages-are-common-costly-and-preventable).
+3. New York Times. (24 July 2019).
+   [YouTube Is a Big Business. Just How Big Is Anyone's Guess.](https://www.nytimes.com/2019/07/24/technology/youtube-financial-disclosure-google.html)
