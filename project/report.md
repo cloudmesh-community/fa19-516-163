@@ -19,12 +19,12 @@ to include more clouds as time allows.
 
 ## Platforms
 
-AWS Lambda  
-Azure Functions  
-GCP Functions
+- AWS Lambda
+- Azure Functions
+- GCP Functions
 
 ## Languages
 
-Python 3.7  
-Node.js 10  
-C# 7.3 or F# 4.6 (.Net Core)
+- Python 3.7
+- Node.js 10
+- C# 8 or F# 4.7 (.Net Core)
