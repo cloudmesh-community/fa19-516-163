@@ -1,4 +1,4 @@
-# Project Proposal
+# :o2: title is missing
 
 ## Students
 
