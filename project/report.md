@@ -19,12 +19,17 @@ to include more clouds as time allows.
 
 ## Platforms
 
+* Cloudmesh Commandline interface to derive from specifications deplyment and running functions
+* Abstract REST Service interface in OPENAPI
 - AWS Lambda
 - Azure Functions
 - GCP Functions
 
 ## Languages
 
-- Python 3.7
+Primary:
+- Python 3.7 the APIs defined with puthon will be integrated into conexion with the help of Operantion Ids
+
+Secondary, derived form OpenAPI 3 specification:
 - Node.js 10
 - C# 8 or F# 4.7 (.Net Core)
