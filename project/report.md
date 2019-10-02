@@ -35,3 +35,7 @@ Primary:
 Secondary, derived form OpenAPI 3 specification:
 - Node.js 10
 - C# 8 or F# 4.7 (.Net Core)
+
+## References
+
+* <https://theburningmonk.com/2017/06/aws-lambda-compare-coldstart-time-with-different-languages-memory-and-code-sizes/>
